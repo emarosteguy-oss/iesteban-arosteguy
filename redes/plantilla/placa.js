@@ -2,6 +2,7 @@
 // json: {"theme":"light|dark|celeste","tag":"TEMA","head":"Frase con <em>énfasis</em>","sub":"Línea de apoyo"}
 // Opcional "foto":"ruta/a/foto.jpg" -> la foto va de fondo con velo azul marino; el texto baja a la parte inferior.
 // Opcional "focus":"center|top|bottom" (o "50% 30%") para encuadrar la foto.
+// Opcional "pos":"top" -> con foto, el texto va arriba (útil si las caras están en la mitad de abajo).
 const { chromium } = require('playwright');
 const fs = require('fs'); const path = require('path');
 const c = JSON.parse(process.argv[2]); const out = process.argv[3];
@@ -20,7 +21,9 @@ const fotoCss = foto ? `
 .tag{color:#fff;text-shadow:0 2px 8px rgba(0,0,0,.5)}
 .txt{position:absolute;left:96px;right:96px;bottom:310px;display:flex;flex-direction:column;gap:26px}
 .txt h1,.txt p{position:static}
-.txt p{color:#E3EAF4;margin-right:44px}` : '';
+.txt p{color:#E3EAF4;margin-right:44px}
+${c.pos==='top'?`.veil{background:linear-gradient(180deg,rgba(20,33,61,.92) 0%,rgba(20,33,61,.75) 30%,rgba(20,33,61,.15) 46%,rgba(20,33,61,0) 58%,rgba(20,33,61,.55) 76%,#14213D 92%)}
+.txt{top:230px;bottom:auto}`:''}` : '';
 const html = `<!DOCTYPE html><html><head><style>
 *{margin:0;box-sizing:border-box}
 body{width:1080px;height:1350px;background:${t.bg};font-family:'Inter',sans-serif;color:${t.ink};position:relative;overflow:hidden}
