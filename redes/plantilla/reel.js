@@ -2,7 +2,7 @@
 // Uso: node reel.js '<json>' salida.mp4
 // json: igual que placa.js {"theme":"light|dark|celeste","tag":"TEMA","head":"Frase con <em>énfasis</em>","sub":"Línea de apoyo"}
 // Opcionales: "size" (tamaño de la frase, def. 116), "dur" (segundos, def. 12),
-//             "music" (ruta a .wav/.mp3; si falta, genera una pista original con musica.py), "mood" (calido|epico|reflexivo)
+//             "music" (ruta a .wav/.mp3; si falta, genera una pista original con musica.py), "mood" (calido|epico|reflexivo|campana)
 const { chromium } = require('playwright');
 const fs = require('fs'); const path = require('path'); const os = require('os');
 const { execFileSync } = require('child_process');
