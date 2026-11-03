@@ -37,6 +37,9 @@ Con foto el tema es siempre azul marino. Verificar siempre con Read que el texto
 | mate-trigal.jpg | Esteban con mate y termo en un trigal | interior productivo, tradición, campo, cercanía (de las mejores) | focus center |
 | playa-con-perros.jpg | Sonriendo en la playa con sus dos perros al atardecer | cercanía, lado humano, verano, bienestar animal | focus top |
 | boina-mesa-criolla.jpg | Con boina en una mesa criolla (foto profesional con marca de agua "Instantes Fotografía"; se ve una copa de vino) | tradiciones, cultura, gastronomía local; usar solo con crédito al fotógrafo | focus top |
+| junta-sesion-micro-1.jpg | Exponiendo en sesión al micrófono, de frente (cartel de Carlos Hornos, su edil titular) | propuestas, debate, trabajo legislativo | focus top |
+| junta-sesion-micro-2.jpg | Igual, mirando a un costado | debate, críticas con propuesta | focus top |
+| junta-sesion-micro-3.jpg | Igual, con el termo en la mesa | trabajo legislativo con identidad | focus top |
 | retrato-auto-gorra.jpg | Selfie casual en el auto | cercanía (uso ocasional) | focus top |
 
 Reglas: no repetir la misma foto en menos de 10 días; fotos de familia/hijos solo si Esteban la manda para un post puntual (no se guardan en este repo público); en temas sensibles, preferir foto sin caras o placa sin foto.
