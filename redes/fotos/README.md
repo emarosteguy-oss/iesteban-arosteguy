@@ -33,6 +33,10 @@ Con foto el tema es siempre azul marino. Verificar siempre con Read que el texto
 | junta-sonriendo.jpg | Sonriendo en la bancada junto a Fede (se ve el cartel de otra edila abajo: tapalo con el texto) | buen clima, política con respeto, logros | focus top |
 | junta-risas-con-fede.jpg | Riendo con Federico De Groote en sesión | equipo Lista 41, buen clima | focus top |
 | junta-charla-con-fede.jpg | Conversando con Federico De Groote en sesión | equipo, acuerdos, trabajo en conjunto | focus top |
+| con-lacalle-pou-atardecer.jpg | Selfie con Luis Lacalle Pou sobre un río al atardecer | identidad blanca, partido, futuro (usar poco) | focus center, pos top |
+| mate-trigal.jpg | Esteban con mate y termo en un trigal | interior productivo, tradición, campo, cercanía (de las mejores) | focus center |
+| playa-con-perros.jpg | Sonriendo en la playa con sus dos perros al atardecer | cercanía, lado humano, verano, bienestar animal | focus top |
+| boina-mesa-criolla.jpg | Con boina en una mesa criolla (foto profesional con marca de agua "Instantes Fotografía"; se ve una copa de vino) | tradiciones, cultura, gastronomía local; usar solo con crédito al fotógrafo | focus top |
 | retrato-auto-gorra.jpg | Selfie casual en el auto | cercanía (uso ocasional) | focus top |
 
 Reglas: no repetir la misma foto en menos de 10 días; fotos de familia/hijos solo si Esteban la manda para un post puntual (no se guardan en este repo público); en temas sensibles, preferir foto sin caras o placa sin foto.
