@@ -43,3 +43,9 @@ Con foto el tema es siempre azul marino. Verificar siempre con Read que el texto
 | retrato-auto-gorra.jpg | Selfie casual en el auto | cercanía (uso ocasional) | focus top |
 
 Reglas: no repetir la misma foto en menos de 10 días; fotos de familia/hijos solo si Esteban la manda para un post puntual (no se guardan en este repo público); en temas sensibles, preferir foto sin caras o placa sin foto.
+
+## Fotos genéricas libres (redes/fotos/genericas/)
+
+| Archivo | Qué muestra | Temas | Encuadre | Fuente · autor · licencia |
+|---|---|---|---|---|
+| genericas/jubilados-de-espalda.jpg | Pareja de jubilados caminando de espalda, tomados de la mano (sin caras) | jubilados, adultos mayores, seguridad social, cuidados | pos top, focus center (las manos quedan abajo) | Wikimedia Commons "File:Senior-3336451 1920.jpg" · pasja1000 (Pixabay, https://pixabay.com/photos/senior-elderly-people-couple-3336451/) · CC0 1.0 |
