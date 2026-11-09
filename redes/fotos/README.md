@@ -41,6 +41,7 @@ Con foto el tema es siempre azul marino. Verificar siempre con Read que el texto
 | junta-sesion-micro-2.jpg | Igual, mirando a un costado | debate, críticas con propuesta | focus top |
 | junta-sesion-micro-3.jpg | Igual, con el termo en la mesa | trabajo legislativo con identidad | focus top |
 | retrato-auto-gorra.jpg | Selfie casual en el auto | cercanía (uso ocasional) | focus top |
+| intendencia-reunion-mesa.jpg | Reunión en la Intendencia de San José: tres personas en una mesa de vidrio, banderas y fondo con el escudo de la Intendencia (mandada por Esteban el 09/11/2026) | gestión departamental, Intendencia, coordinación con el gobierno nacional, inversiones en San José, trabajo en equipo | focus top, sin pos (el texto abajo tapa el reflejo de la mesa) |
 
 Reglas: no repetir la misma foto en menos de 10 días; fotos de familia/hijos solo si Esteban la manda para un post puntual (no se guardan en este repo público); en temas sensibles, preferir foto sin caras o placa sin foto.
 
