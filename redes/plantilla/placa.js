@@ -34,7 +34,7 @@ h1{position:absolute;left:96px;right:96px;top:330px;font-family:'Inter Display',
 h1 em{font-style:normal;color:${t.em};${t.emBg?`background:${t.emBg};padding:0 14px;`:''}}
 p{position:absolute;left:96px;right:140px;bottom:320px;font-size:40px;line-height:1.35;color:${t.sub}}
 .foot{position:absolute;left:96px;right:96px;bottom:90px;border-top:3px solid ${t.rule};padding-top:30px;display:flex;align-items:center;gap:28px}
-.logo{width:120px;height:120px;border-radius:50%;object-fit:cover;flex:none}
+.logo{width:120px;height:120px;border-radius:18px;object-fit:contain;background:#fff;padding:6px;box-sizing:border-box;flex:none}
 .who{display:flex;flex-direction:column;gap:6px}
 .name{font-family:'Inter Display','Inter',sans-serif;font-weight:700;font-size:44px;line-height:1.1}
 .role{font-size:30px;color:${t.sub};font-weight:500}

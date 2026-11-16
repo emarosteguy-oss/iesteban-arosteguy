@@ -26,7 +26,7 @@ h1 .w{display:inline-block;will-change:transform,opacity}
 h1 em{font-style:normal;color:${t.em};${t.emBg?`background:linear-gradient(${t.emBg},${t.emBg}) no-repeat left/0% 100%;-webkit-box-decoration-break:clone;box-decoration-break:clone;padding:0 14px;`:''}}
 p{position:absolute;left:96px;right:140px;font-size:46px;line-height:1.35;color:${t.sub}}
 .foot{position:absolute;left:96px;right:96px;bottom:300px;border-top:3px solid ${t.rule};padding-top:34px;display:flex;align-items:center;gap:30px}
-.logo{width:132px;height:132px;border-radius:50%;object-fit:cover;flex:none}
+.logo{width:132px;height:132px;border-radius:20px;object-fit:contain;background:#fff;padding:7px;box-sizing:border-box;flex:none}
 .who{display:flex;flex-direction:column;gap:6px}
 .name{font-family:'Inter Display','Inter',sans-serif;font-weight:700;font-size:48px;line-height:1.1}
 .role{font-size:32px;color:${t.sub};font-weight:500}
